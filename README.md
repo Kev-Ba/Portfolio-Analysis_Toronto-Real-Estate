@@ -36,7 +36,9 @@ I was responsible for collecting data, cleaning it, and creating the database. T
 - There were 4 tables of real estate data (each for different housing type) – with an additional one that was simply an all table which didn’t specify housing type (for a total of 5 tables).
 - There were 4 tables of Bank of Canada data. Monthly bank rates, weekly bank rates, weekly variable mortgage rate, and quarterly inflation rates.
 - Created the below schema:
-*insert eer diagram*
+
+![0_database_schema](https://github.com/Kev-Ba/Portfolio-Analysis_Toronto-Real-Estate/assets/146384860/88b1122e-4b02-4cbf-91be-9904508893e6)
+
 
 ##### Step 3: Cleaning Bank of Canada Data
 
