@@ -3,19 +3,10 @@
 ---
 
 
-## Toronto Real Estate: <br> Bank Rate & Market Analysis
+## Toronto Real Estate: <br> Bank Rate & Market Analysis <br>
 
-### Table of Contents
 
-> Analysis Summary
-
-> Full Slide Deck Presentation
-
-> Data Cleaning / Database Creation
-
----
-
-**Analysis Summary**
+### Analysis Summary
 
 We analyzed the affect that inflation, and/or the bank rate might have on the Toronto Real Estate market. We had 9 years worth of sample data, from 2013 - 2022.
 
@@ -31,13 +22,7 @@ I was responsible for collecting data, cleaning it, and creating the database. T
 
 ---
 
-**Full Slide Deck Presentation** 
-
-The full slide deck can be viewed here: *insert link*
-
----
-
-**Data Collection, Cleaning, & Database Creation**
+### Data Collection, Cleaning, & Database Creation
 
 ##### Step 1: Collecting Data
 
